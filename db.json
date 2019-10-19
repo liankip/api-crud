@@ -2,52 +2,52 @@
   "todos": [
     {
       "id": 1,
-      "todo": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+      "todo": "Pergi belanja ke supermarket.",
       "done": 1
     },
     {
       "id": 2,
-      "todo": "Fusce consequat. Nulla nisl. Nunc nisl.",
+      "todo": "Jalan kaki.",
       "done": 1
     },
     {
       "id": 3,
-      "todo": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+      "todo": "Beli telur",
       "done": 0
     },
     {
       "id": 4,
-      "todo": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+      "todo": "Beli sayur.",
       "done": 1
     },
     {
       "id": 5,
-      "todo": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+      "todo": "Beli susu dan beer.",
       "done": 1
     },
     {
       "id": 6,
-      "todo": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+      "todo": "Pulang dari supermarket.",
       "done": 1
     },
     {
       "id": 7,
-      "todo": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+      "todo": "Beli game online di Steam.",
       "done": 0
     },
     {
       "id": 8,
-      "todo": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+      "todo": "Download game.",
       "done": 1
     },
     {
       "id": 9,
-      "todo": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+      "todo": "Mainkan gamenya.",
       "done": 0
     },
     {
       "id": 10,
-      "todo": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+      "todo": "Tidur.",
       "done": 1
     }
   ]
