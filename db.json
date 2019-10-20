@@ -33,22 +33,22 @@
     {
       "id": 7,
       "todo": "Beli game online di Steam",
-      "done": 1
+      "done": 0
     },
     {
       "id": 8,
       "todo": "Download game",
-      "done": 1
+      "done": 0
     },
     {
       "id": 9,
       "todo": "Mainkan gamenya",
-      "done": 1
+      "done": 0
     },
     {
       "id": 10,
       "todo": "Tidur",
-      "done": 1
+      "done": 0
     }
   ]
 }
