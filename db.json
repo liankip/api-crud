@@ -13,7 +13,7 @@
     {
       "id": 3,
       "todo": "Beli telur",
-      "done": 0
+      "done": 1
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
     {
       "id": 7,
       "todo": "Beli game online di Steam",
-      "done": 0
+      "done": 1
     },
     {
       "id": 8,
@@ -43,7 +43,7 @@
     {
       "id": 9,
       "todo": "Mainkan gamenya",
-      "done": 0
+      "done": 1
     },
     {
       "id": 10,
