@@ -2,12 +2,12 @@
   "todos": [
     {
       "id": 1,
-      "todo": "Pergi belanja ke supermarket.",
+      "todo": "Pergi belanja ke supermarket",
       "done": 1
     },
     {
       "id": 2,
-      "todo": "Jalan kaki.",
+      "todo": "Jalan kaki",
       "done": 1
     },
     {
@@ -17,37 +17,37 @@
     },
     {
       "id": 4,
-      "todo": "Beli sayur.",
+      "todo": "Beli sayur",
       "done": 1
     },
     {
       "id": 5,
-      "todo": "Beli susu dan beer.",
+      "todo": "Beli susu dan bir",
       "done": 1
     },
     {
       "id": 6,
-      "todo": "Pulang dari supermarket.",
+      "todo": "Pulang dari supermarket",
       "done": 1
     },
     {
       "id": 7,
-      "todo": "Beli game online di Steam.",
+      "todo": "Beli game online di Steam",
       "done": 0
     },
     {
       "id": 8,
-      "todo": "Download game.",
+      "todo": "Download game",
       "done": 1
     },
     {
       "id": 9,
-      "todo": "Mainkan gamenya.",
+      "todo": "Mainkan gamenya",
       "done": 0
     },
     {
       "id": 10,
-      "todo": "Tidur.",
+      "todo": "Tidur",
       "done": 1
     }
   ]
